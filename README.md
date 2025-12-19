@@ -39,14 +39,14 @@ Primary execution of Algorithm 2 with a pole and the standard goal set.
 
 ---
 
-### Exec4 | Algo2 | Pole | Goals1:Reordered
+### Exec4 | Algo2 | Pole | Goals2
 
 Variant of Algorithm 2 with a pole, using a reordered version of the standard goal set.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%3AReordered/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%3AReordered/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%3AReordered/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%3AReordered/Algos)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/Algos)
 [![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=3&edit=false)
 
 ---
@@ -63,26 +63,26 @@ Variant of Algorithm 2 with a hole and standard goals to test visibility through
 
 ---
 
-### Exec6 | Algo2 | Pole | Goals2
+### Exec6 | Algo2 | Pole | Goals3
 
-Execution of Algorithm 2 with a pole, testing Goal Set 2.
+Variant of Algorithm 2 with a pole, using the standard goals where the 11th goal has a different target position with opposite direction.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/Algos)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/Algos)
 [![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=5&edit=false)
 
 ---
 
-### Exec7 | Algo2 | Pole | Goals3
+### Exec7 | Algo2 | Pole | Goals4
 
-Execution of Algorithm 2 with a pole, testing Goal Set 3.
+Variant of Algorithm 2 with a pole, using the standard goals where the 9th goal's target positions have a one-step shift to the right.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/Algos)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals4/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals4/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals4/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals4/Algos)
 [![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=6&edit=false)
 
 ---
