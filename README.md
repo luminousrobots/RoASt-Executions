@@ -4,75 +4,86 @@ This repository contains execution results from the ROAST tool (Robot Algorithm 
 
 ## Executions
 
-### Exec1 | Algo1 | Obstacle:Pole | Goals1 | Main
+### Exec1 | Algo1 | Pole | Goals1 | Main
 
 Primary execution of Algorithm 1 with a pole and the standard goal set.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec1%20%7C%20Algo1%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/Algos)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec1%20%7C%20Algo1%20%7C%20Pole%20%7C%20Goals1%20%7C%20Main/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec1%20%7C%20Algo1%20%7C%20Pole%20%7C%20Goals1%20%7C%20Main/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec1%20%7C%20Algo1%20%7C%20Pole%20%7C%20Goals1%20%7C%20Main/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec1%20%7C%20Algo1%20%7C%20Pole%20%7C%20Goals1%20%7C%20Main/Algos)
 [![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=0&edit=false)
 
 ---
 
-### Exec2 | Algo2 | Obstacle:Pole | Goals1 | Main
+### Exec2 | Algo1 | Pole | Goals2
+Variant of Algorithm 1 with a pole, with an additional step on the last goal in the standard goal set.
 
-Primary execution of Algorithm 2 with a pole and the standard goal set.
-
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec2%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%20%7C%20Main/Algos)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec2%20%7C%20Algo1%20%7C%20Pole%20%7C%20Goals2/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec2%20%7C%20Algo1%20%7C%20Pole%20%7C%20Goals2/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec2%20%7C%20Algo1%20%7C%20Pole%20%7C%20Goals2/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec2%20%7C%20Algo1%20%7C%20Pole%20%7C%20Goals2/Algos)
 [![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=1&edit=false)
 
 ---
 
-### Exec3 | Algo2 | Obstacle:Pole | Goals1:Reordered
+### Exec3 | Algo2 | Pole | Goals1 | Main
 
-Variant of Algorithm 2 with a pole, using a reordered version of the standard goal set.
+Primary execution of Algorithm 2 with a pole and the standard goal set.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec3%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals1%3AReordered/Algos)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec3%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%20%7C%20Main/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec3%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%20%7C%20Main/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec3%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%20%7C%20Main/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec3%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%20%7C%20Main/Algos)
 [![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=2&edit=false)
 
 ---
 
-### Exec4 | Algo2 | Obstacle:Hole | Goals1
+### Exec4 | Algo2 | Pole | Goals1:Reordered
 
-Variant of Algorithm 2 with a hole and standard goals to test visibility through it.
+Variant of Algorithm 2 with a pole, using a reordered version of the standard goal set.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec4%20%7C%20Algo2%20%7C%20Obstacle%3Atransparent%20%7C%20Goals1/Algos)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%3AReordered/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%3AReordered/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%3AReordered/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec4%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals1%3AReordered/Algos)
 [![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=3&edit=false)
 
 ---
 
-### Exec5 | Algo2 | Obstacle:Pole | Goals2
+### Exec5 | Algo2 | Hole | Goals1
 
-Execution of Algorithm 2 with a pole, testing Goal Set 2.
+Variant of Algorithm 2 with a hole and standard goals to test visibility through it.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec5%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals2/Algos)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec5%20%7C%20Algo2%20%7C%20Hole%20%7C%20Goals1/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec5%20%7C%20Algo2%20%7C%20Hole%20%7C%20Goals1/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec5%20%7C%20Algo2%20%7C%20Hole%20%7C%20Goals1/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec5%20%7C%20Algo2%20%7C%20Hole%20%7C%20Goals1/Algos)
 [![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=4&edit=false)
 
 ---
 
-### Exec6 | Algo2 | Obstacle:Pole | Goals3
+### Exec6 | Algo2 | Pole | Goals2
+
+Execution of Algorithm 2 with a pole, testing Goal Set 2.
+
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec6%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals2/Algos)
+[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=5&edit=false)
+
+---
+
+### Exec7 | Algo2 | Pole | Goals3
 
 Execution of Algorithm 2 with a pole, testing Goal Set 3.
 
-[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3/viewer.html)
-[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3/classification.html)
-[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3/timestamp.log)
-[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec6%20%7C%20Algo2%20%7C%20Obstacle%3Aopaque%20%7C%20Goals3/Algos)
-[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=5&edit=false)
+[![Viewer](https://img.shields.io/badge/Viewer-blue?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/viewer.html)
+[![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/classification.html)
+[![Duration](https://img.shields.io/badge/Duration-orange?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Executions/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/timestamp.log)
+[![Generated Algorithms](https://img.shields.io/badge/Generated%20Algorithms-red?style=for-the-badge)](https://github.com/luminousrobots/RoASt-Executions/tree/main/Exec7%20%7C%20Algo2%20%7C%20Pole%20%7C%20Goals3/Algos)
+[![Config](https://img.shields.io/badge/Config-purple?style=for-the-badge)](https://luminousrobots.github.io/RoASt-Configuration-Wizard/?preset=6&edit=false)
 
 ---
 
