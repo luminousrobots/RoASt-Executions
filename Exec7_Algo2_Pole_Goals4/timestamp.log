@@ -1,0 +1,53 @@
+
+┌──────────────────────────────────────────────────────────────┐
+│                    🚀 EXECUTION STARTED                      │
+├──────────────────────────────────────────────────────────────┤
+│ Time      : 2026-01-17 17:32:37                              │
+└──────────────────────────────────────────────────────────────┘
+
+⏱ [(0.02310 sec)]  •  150 views generated in (0.02231 sec)
+⏱ [(0.02341 sec)]  •  146 views generated after removing existing records in (0.00024 sec)
+⏱ [(0.10816 sec)]  •  1298 rules successfully generated in (0.08469 sec)
+⏱ [(0.10822 sec)]  •  Views: 146 generated + 117 existing = 263, Rules: 1298 generated + 117 existing = 1415
+⏱ [(5.16365 sec)]  •  5892 parallel rules successfully generated in (5.05536 sec)
+⏱ [(5.17245 sec)]  •  Parallel rules validated in (0.00872 sec)
+⏱ [(5.70895 sec)]  •  After compressing by opacity: Views = 237, Rules = 1344, Parallel Rules = 5892
+⏱ [(5.91883 sec)]  •  Simulated goal 1 with target 1 in (0.02279 sec) sec: found 1 execution paths
+⏱ [(5.94282 sec)]  •  Simulated goal 2 with target 1 in (0.02396 sec) sec: found 1 execution paths
+⏱ [(6.00413 sec)]  •  Simulated goal 3 with target 1 in (0.06127 sec) sec: found 30 execution paths
+⏱ [(6.07109 sec)]  •  Simulated goal 4 with target 1 in (0.06690 sec) sec: found 30 execution paths
+⏱ [(6.08726 sec)]  •  Simulated goal 5 with target 1 in (0.01612 sec) sec: found 2 execution paths
+⏱ [(6.10331 sec)]  •  Simulated goal 6 with target 1 in (0.01600 sec) sec: found 2 execution paths
+⏱ [(6.13891 sec)]  •  Simulated goal 7 with target 1 in (0.03555 sec) sec: found 24 execution paths
+⏱ [(6.17920 sec)]  •  Simulated goal 8 with target 1 in (0.04024 sec) sec: found 24 execution paths
+⏱ [(6.23655 sec)]  •  Simulated goal 9 with target 1 in (0.05730 sec) sec: found 58 execution paths
+⏱ [(6.27453 sec)]  •  Simulated goal 10 with target 1 in (0.03792 sec) sec: found 10 execution paths
+⏱ [(6.29231 sec)]  •  Simulated goal 11 with target 1 in (0.01773 sec) sec: found 2 execution paths
+⏱ [(6.29235 sec)]  •  All goals simulated in (0.39631 sec) sec
+⏱ [(6.29407 sec)]  •  After goal 1 in (0.00001 sec): 1 global algos found!
+⏱ [(6.29415 sec)]  •  After goal 2 in (0.00010 sec): 1 global algos found!
+⏱ [(6.29550 sec)]  •  After goal 3 in (0.00144 sec): 30 global algos found!
+⏱ [(6.31289 sec)]  •  After goal 4 in (0.01862 sec): 411 global algos found!
+⏱ [(6.32478 sec)]  •  After goal 5 in (0.03070 sec): 822 global algos found!
+⏱ [(6.34895 sec)]  •  After goal 6 in (0.05475 sec): 1644 global algos found!
+⏱ [(7.42631 sec)]  •  After goal 7 in (1.13224 sec): 39456 global algos found!
+⏱ [(27.95637 sec)]  •  After goal 8 in (21.66228 sec): 532656 global algos found!
+⏱ [(10 min 30.8583 sec)]  •  After goal 9 in (10 min 24.5642 sec): 19401120 global algos found!
+⏱ [(1h 21min 17.5391 sec)]  •  After goal 10 in (1h 21min 11.2451 sec): 117407808 global algos found!
+⏱ [(2h 16min 19.9536 sec)]  •  After goal 11 in (2h 16min 13.6592 sec): 117407808 global algos found!
+⏱ [(2h 16min 19.9536 sec)]  •  combinaison in (2h 16min 13.6592 sec)
+⏱ [(2h 16min 35.7178 sec)]  •  32 levels found, activation levels: [75, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, 107, 109, 111]
+⏱ [(2h 16min 48.7227 sec)]  •  Activation level 75 processed in (13.00509 sec) : 10 algorithms validated
+⏱ [(2h 20min 20.1572 sec)]  •  Activation level 77 processed in (3 min 31.4347 sec) : 78 algorithms validated
+⏱ [(2h 20min 36.3584 sec)]  •  Activation level 78 processed in (16.19946 sec) : 15 algorithms validated
+⏱ [(3h 3min 27.7109 sec)]  •  Activation level 79 processed in (42 min 51.3525 sec) : 372 algorithms validated
+⏱ [(3h 7min 16.9570 sec)]  •  Progressive validation completed in (3h 7min 10.6631 sec)
+
+┌──────────────────────────────────────────────────────────────┐
+│                    🏁 EXECUTION COMPLETED                    │
+├──────────────────────────────────────────────────────────────┤
+│ End Time : 2026-01-17 20:40:26                               │
+│ Duration : (3h 7min 48.9414 sec)                             │
+└──────────────────────────────────────────────────────────────┘
+
+

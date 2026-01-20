@@ -1,0 +1,53 @@
+
+┌──────────────────────────────────────────────────────────────┐
+│                    🚀 EXECUTION STARTED                      │
+├──────────────────────────────────────────────────────────────┤
+│ Time      : 2026-01-17 14:10:11                              │
+└──────────────────────────────────────────────────────────────┘
+
+⏱ [(0.01930 sec)]  •  150 views generated in (0.01858 sec)
+⏱ [(0.01956 sec)]  •  146 views generated after removing existing records in (0.00020 sec)
+⏱ [(0.10032 sec)]  •  1298 rules successfully generated in (0.08070 sec)
+⏱ [(0.10038 sec)]  •  Views: 146 generated + 117 existing = 263, Rules: 1298 generated + 117 existing = 1415
+⏱ [(5.10879 sec)]  •  5892 parallel rules successfully generated in (5.00835 sec)
+⏱ [(5.11765 sec)]  •  Parallel rules validated in (0.00878 sec)
+⏱ [(5.67320 sec)]  •  After compressing by opacity: Views = 237, Rules = 1344, Parallel Rules = 5892
+⏱ [(5.82410 sec)]  •  Simulated goal 1 with target 1 in (0.06241 sec) sec: found 30 execution paths
+⏱ [(5.88807 sec)]  •  Simulated goal 2 with target 1 in (0.06391 sec) sec: found 30 execution paths
+⏱ [(5.92679 sec)]  •  Simulated goal 3 with target 1 in (0.03867 sec) sec: found 24 execution paths
+⏱ [(5.96602 sec)]  •  Simulated goal 4 with target 1 in (0.03917 sec) sec: found 24 execution paths
+⏱ [(6.00771 sec)]  •  Simulated goal 5 with target 1 in (0.04163 sec) sec: found 10 execution paths
+⏱ [(6.02676 sec)]  •  Simulated goal 6 with target 1 in (0.01900 sec) sec: found 2 execution paths
+⏱ [(6.04555 sec)]  •  Simulated goal 7 with target 1 in (0.01874 sec) sec: found 2 execution paths
+⏱ [(6.06432 sec)]  •  Simulated goal 8 with target 1 in (0.01872 sec) sec: found 2 execution paths
+⏱ [(6.09309 sec)]  •  Simulated goal 9 with target 1 in (0.02872 sec) sec: found 1 execution paths
+⏱ [(6.12232 sec)]  •  Simulated goal 10 with target 1 in (0.02919 sec) sec: found 1 execution paths
+⏱ [(6.14251 sec)]  •  Simulated goal 11 with target 1 in (0.02014 sec) sec: found 1 execution paths
+⏱ [(6.14256 sec)]  •  All goals simulated in (0.38088 sec) sec
+⏱ [(6.14378 sec)]  •  After goal 1 in (0.00081 sec): 30 global algos found!
+⏱ [(6.16312 sec)]  •  After goal 2 in (0.02014 sec): 411 global algos found!
+⏱ [(6.29421 sec)]  •  After goal 3 in (0.15124 sec): 9864 global algos found!
+⏱ [(9.79514 sec)]  •  After goal 4 in (3.65216 sec): 133164 global algos found!
+⏱ [(27.17131 sec)]  •  After goal 5 in (21.02832 sec): 839268 global algos found!
+⏱ [(43.06779 sec)]  •  After goal 6 in (36.92480 sec): 1645272 global algos found!
+⏱ [(1 min 17.5442 sec)]  •  After goal 7 in (1 min 11.4012 sec): 3257280 global algos found!
+⏱ [(2 min 18.0626 sec)]  •  After goal 8 in (2 min 11.9196 sec): 3257280 global algos found!
+⏱ [(3 min 24.1842 sec)]  •  After goal 9 in (3 min 18.0412 sec): 3257280 global algos found!
+⏱ [(4 min 35.8263 sec)]  •  After goal 10 in (4 min 29.6833 sec): 3257280 global algos found!
+⏱ [(4 min 49.4807 sec)]  •  After goal 11 in (4 min 43.3377 sec): 373248 global algos found!
+⏱ [(4 min 49.4807 sec)]  •  combinaison in (4 min 43.3378 sec)
+⏱ [(4 min 49.5516 sec)]  •  12 levels found, activation levels: [75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97]
+⏱ [(4 min 55.3830 sec)]  •  Activation level 75 processed in (5.83130 sec) : 5 algorithms validated
+⏱ [(6 min 50.6166 sec)]  •  Activation level 77 processed in (1 min 55.2335 sec) : 24 algorithms validated
+⏱ [(16 min 20.3310 sec)]  •  Activation level 79 processed in (9 min 29.7130 sec) : 44 algorithms validated
+⏱ [(1h 9min 6.2598 sec)]  •  Activation level 81 processed in (52 min 45.9207 sec) : 42 algorithms validated
+⏱ [(1h 10min 2.6948 sec)]  •  Progressive validation completed in (1h 9min 56.5518 sec)
+
+┌──────────────────────────────────────────────────────────────┐
+│                    🏁 EXECUTION COMPLETED                    │
+├──────────────────────────────────────────────────────────────┤
+│ End Time : 2026-01-17 15:20:14                               │
+│ Duration : (1h 10min 2.8296 sec)                             │
+└──────────────────────────────────────────────────────────────┘
+
+

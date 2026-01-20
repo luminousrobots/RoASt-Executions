@@ -1,0 +1,46 @@
+
+┌──────────────────────────────────────────────────────────────┐
+│                    🚀 EXECUTION STARTED                      │
+├──────────────────────────────────────────────────────────────┤
+│ Time      : 2026-01-17 23:17:06                              │
+└──────────────────────────────────────────────────────────────┘
+
+⏱ [(0.00169 sec)]  •  39 views generated in (0.00126 sec)
+⏱ [(0.00185 sec)]  •  35 views generated after removing existing records in (0.00011 sec)
+⏱ [(0.00194 sec)]  •  490 rules successfully generated in (0.00004 sec)
+⏱ [(0.00200 sec)]  •  Views: 35 generated + 28 existing = 63, Rules: 490 generated + 28 existing = 518
+⏱ [(0.54255 sec)]  •  2449 parallel rules successfully generated in (0.54048 sec)
+⏱ [(0.54737 sec)]  •  Parallel rules validated in (0.00474 sec)
+⏱ [(0.57343 sec)]  •  Simulated goal 1 with target 1 in (0.00572 sec) sec: found 2 execution paths
+⏱ [(0.57943 sec)]  •  Simulated goal 2 with target 1 in (0.00596 sec) sec: found 2 execution paths
+⏱ [(0.58539 sec)]  •  Simulated goal 3 with target 1 in (0.00593 sec) sec: found 2 execution paths
+⏱ [(0.59156 sec)]  •  Simulated goal 4 with target 1 in (0.00612 sec) sec: found 2 execution paths
+⏱ [(0.60239 sec)]  •  Simulated goal 5 with target 1 in (0.01078 sec) sec: found 7 execution paths
+⏱ [(0.61827 sec)]  •  Simulated goal 6 with target 1 in (0.01583 sec) sec: found 18 execution paths
+⏱ [(0.62337 sec)]  •  Simulated goal 7 with target 1 in (0.00504 sec) sec: found 1 execution paths
+⏱ [(0.62624 sec)]  •  Simulated goal 8 with target 1 in (0.00283 sec) sec: found 1 execution paths
+⏱ [(0.62628 sec)]  •  All goals simulated in (0.05858 sec) sec
+⏱ [(0.62662 sec)]  •  After goal 1 in (0.00003 sec): 2 global algos found!
+⏱ [(0.62682 sec)]  •  After goal 2 in (0.00022 sec): 4 global algos found!
+⏱ [(0.62710 sec)]  •  After goal 3 in (0.00050 sec): 5 global algos found!
+⏱ [(0.62747 sec)]  •  After goal 4 in (0.00087 sec): 7 global algos found!
+⏱ [(0.62919 sec)]  •  After goal 5 in (0.00259 sec): 7 global algos found!
+⏱ [(0.63225 sec)]  •  After goal 6 in (0.00564 sec): 5 global algos found!
+⏱ [(0.63442 sec)]  •  After goal 7 in (0.00782 sec): 5 global algos found!
+⏱ [(0.63470 sec)]  •  After goal 8 in (0.00810 sec): 5 global algos found!
+⏱ [(0.63473 sec)]  •  combinaison in (0.00814 sec)
+⏱ [(0.63477 sec)]  •  4 levels found, activation levels: [36, 40, 42, 45]
+⏱ [(0.66417 sec)]  •  Activation level 36 processed in (0.02935 sec) : 0 algorithms validated
+⏱ [(0.69923 sec)]  •  Activation level 40 processed in (0.03500 sec) : 0 algorithms validated
+⏱ [(0.73103 sec)]  •  Activation level 42 processed in (0.03175 sec) : 0 algorithms validated
+⏱ [(0.77614 sec)]  •  Activation level 45 processed in (0.04507 sec) : 0 algorithms validated
+⏱ [(0.77623 sec)]  •  Progressive validation completed in (0.14964 sec)
+
+┌──────────────────────────────────────────────────────────────┐
+│                    🏁 EXECUTION COMPLETED                    │
+├──────────────────────────────────────────────────────────────┤
+│ End Time : 2026-01-17 23:17:07                               │
+│ Duration : (0.78000 sec)                                     │
+└──────────────────────────────────────────────────────────────┘
+
+
